@@ -1,5 +1,0 @@
-ALTER TABLE pr_dtl_proceed MODIFY dtlno INT NOT NULL;
-ALTER TABLE pr_dtl_proceed DROP PRIMARY KEY;
-alter table pr_dtl_proceed add key(dtlno);
-ALTER TABLE pr_dtl_proceed MODIFY dtlno INT NOT NULL AUTO_INCREMENT;
-alter table pr_dtl_proceed add primary key(no, itemno, companyno, departmentno, machineno);
