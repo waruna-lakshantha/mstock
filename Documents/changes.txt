@@ -1,0 +1,8 @@
+01.   Item code filtering facility parameter wise (item group also  to be a separate parameter)
+02.   Min max inventory level indication in dash board
+03.   Available stock to be shown in MRP & MRN documents when approving
+04.   Cost field in the GRN to be a non mandatory field.
+05.   At GRN point option selection is required for categorizing the item as asset or  non asset.
+06.   Good received Date filed to be included in GRN .
+07.   MRN and PO are two types i.e item and service .So the selection type to be given .For service it has to be Service Requisition note and Service PO.
+08.   Master Data Adding facility i.e item and supplier,user

@@ -1,0 +1,9 @@
+$.ajax({
+    type: "get",  // or post method, your choice
+    url: yourFileForInclude.php, // any url in same origin
+    data: data,  // data if you need send some data to page
+    success: function(msg){
+                console.log(msg); // for checking
+                window.open('about:blank').document.body.innerHTML = msg;  
+               }
+}); 
