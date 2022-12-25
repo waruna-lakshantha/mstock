@@ -121,10 +121,10 @@
             <td style="text-align: center;" width="100%"><img src="<?php echo base_url();  ?>assets/image/logo.jpg" alt="WPI Logo" style="width:40%;"></td>
         </tr>
         <tr>
-            <td style="text-align: center;">1/265, Cemetery Road, Pamunugama, Allubomulla, Panadura.</td>
+            <td style="text-align: center;">425/B/4, Jayagath Mawatha, Kahathuduwa, Polgasowita. Sri Lanka.</td>
         </tr>
         <tr>
-            <td style="text-align: center;">Tel. 0094382235539 Fax.0094382234568. E mail. silvmi@westernpapersl.com</td>
+            <td style="text-align: center;">Tel. +94773718891. E mail. waruna.lakshantha@gmail.com</td>
         </tr>
         <tr>
             <td style="text-align: center;"><b>Stock Adjustment</b><hr></td>
